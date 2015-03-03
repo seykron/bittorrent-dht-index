@@ -1,0 +1,29 @@
+{
+  "name": "dht-index",
+  "version": "1.0.0",
+  "description": "A distributed metadata index from bittorrent DHT",
+  "main": "index.js",
+  "repository": "https://github.com/seykron/bittorrent-dht-index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bittorrent",
+    "dht",
+    "crawler",
+    "scrapper"
+  ],
+  "author": "seykron <seykron@riseup.net>",
+  "license": "GPLv2",
+  "dependencies": {
+    "async": "^0.9.0",
+    "bencode": "^0.7.0",
+    "compact2string": "^1.4.0",
+    "debug": "^2.1.1",
+    "extend": "^2.0.0",
+    "hat": "0.0.3",
+    "hiredis": "^0.2.0",
+    "redis": "^0.12.1",
+    "string2compact": "^1.2.1"
+  }
+}
