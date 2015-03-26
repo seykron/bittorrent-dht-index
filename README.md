@@ -43,3 +43,6 @@ queried to retrieve the metadata for the underlying infohash.
 
 * **Index manager**: it stores and distributes the metadata over the bittorrent
 network.
+
+* **Network**: the distributed index works over a secure network. This module
+manages operations on network nodes.

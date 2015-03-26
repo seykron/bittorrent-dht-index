@@ -1,0 +1,18 @@
+{
+  "user": "btindex",
+  "group": "btindex",
+  "index": {
+    "vpn": {
+      "bindAddress": "127.0.0.1",
+      "bindPort": 665
+    },
+    "gossip": {
+      "bindAddress": "127.0.0.1",
+      "bindPort": 7411,
+      "seed": {
+        "address": "127.0.0.1",
+        "port": 7410
+      }
+    }
+  }
+}

@@ -1,2 +1,5 @@
 data
 node_modules
+*cassandra*
+vpn
+npm-debug.log
