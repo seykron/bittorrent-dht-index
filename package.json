@@ -23,13 +23,14 @@
     "debug": "^2.1.1",
     "extend": "^2.0.0",
     "hat": "0.0.3",
-    "hiredis": "^0.2.0",
-    "promise": "^7.0.3",
+    "hiredis": "^0.4.1",
+    "promise": "^7.1.1",
     "random-ip": "0.0.1",
     "redis": "^0.12.1",
     "string2compact": "^1.2.1",
     "sudo": "^1.0.3",
-    "tail": "^0.4.0"
+    "tail": "^0.4.0",
+    "torrent-stream": "^1.0.0"
   },
   "devDependencies": {
     "jasmine-node": "^1.14.5"
